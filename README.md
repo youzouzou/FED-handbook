@@ -13,6 +13,7 @@
 * [angular中文网](http://www.apjs.net/)
 * [angular英文官网教程](https://angular.io/docs/ts/latest/quickstart.html)
 * [vue官网教程](http://cn.vuejs.org/v2/guide/)
+* [ng2资源汇总](https://github.com/timjacobi/angular2-education)
 
 > 项目脚手架
 
@@ -50,7 +51,6 @@
 * [弹性文本域elastic](https://github.com/monospaced/angular-elastic)
 * [时间选择器datepicker](https://github.com/g00fy-/angular-datepicker)
 * [md5加密](https://github.com/gdi2290/angular-md5)
-
 
 
 
