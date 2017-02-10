@@ -12,6 +12,7 @@
 * [angular中文网](http://www.apjs.net/)
 * [angular英文官网教程](https://angular.io/docs/ts/latest/quickstart.html)
 * [vue官网教程](http://cn.vuejs.org/v2/guide/)
+* [ng2资源汇总](https://github.com/timjacobi/angular2-education)
 
 > 项目脚手架
 
