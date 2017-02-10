@@ -35,6 +35,25 @@
 * [小程序组件项目](https://github.com/youzouzou/wxapp)
 
 
+> ng1常用插件
+
+* [angular-ui](https://github.com/angular-ui)
+* [富文本编辑器summernote](https://github.com/summernote/angular-summernote)
+* [文件上传angular-file-uploader](https://github.com/ghostbar/angular-file-uploader)
+* [提示toast](https://github.com/Foxandxss/angular-toastr)
+* [本地存储loca-storage](https://github.com/grevory/angular-local-storage)
+* [动画animate](https://github.com/angular/bower-angular-animate)
+* [路由ui-router](https://github.com/angular-ui/ui-router)
+* [标签输入框ng-tags-input](https://github.com/mbenford/ngTagsInput)
+* [数据报表highcharts](https://github.com/pablojim/highcharts-ng)
+* [联想输入下拉框input-dropdown](https://github.com/hannaholl/angular-input-dropdown)
+* [弹性文本域elastic](https://github.com/monospaced/angular-elastic)
+* [时间选择器datepicker](https://github.com/g00fy-/angular-datepicker)
+* [md5加密](https://github.com/gdi2290/angular-md5)
+
+
+
+
 
 
 > 未完待续......
