@@ -1,0 +1,47 @@
+{
+  "name": "angular-chart",
+  "version": "0.1.0",
+  "authors": [
+    "maxklenk"
+  ],
+  "description": "angular directive",
+  "keywords": [
+    "d3",
+    "c3",
+    "chart",
+    "charts",
+    "angular",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "demo",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "main": [
+    "angular-chart.js"
+  ],
+  "dependencies": {
+    "c3": "~0.2.x",
+    "angular": "~1.2.x"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.x"
+  },
+  "homepage": "https://github.com/GraFiddle/angular-chart",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.0",
+    "commit": "d2f5e611059f48a6923dbff33c594325754a132f"
+  },
+  "_source": "https://github.com/GraFiddle/angular-chart.git",
+  "_target": "0.1.0",
+  "_originalSource": "angular-chart",
+  "_direct": true
+}
