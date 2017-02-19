@@ -52,7 +52,9 @@
 * [时间选择器datepicker](https://github.com/g00fy-/angular-datepicker)
 * [md5加密](https://github.com/gdi2290/angular-md5)
 
-
+> ng2插件
+* [动态解析HTML](https://github.com/laco0416/angular2-component-outlet)
+* [文件上传](https://github.com/valor-software/ng2-file-upload)
 
 
 
