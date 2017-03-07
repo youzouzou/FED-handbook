@@ -1,6 +1,7 @@
-前端修炼手册
+##前端修炼手册
 
-总结了一下平时积累的一些亲测可用的资源
+#####总结了一下平时积累的一些亲测可用的资源
+
 
 
 > js资源
@@ -9,16 +10,22 @@
 * [ES6阮一峰教程](http://es6.ruanyifeng.com/#README)
 * 《javascript高级程序设计》
 * [Typescript教程](https://ts.xcatliu.com/)
+* [vue官网教程](http://cn.vuejs.org/v2/guide/)
+
+> Angular学习资源
+
+* [Angular官网](https://docs.angularjs.org/api)
+* [徐飞博客](https://github.com/xufei/blog)
 * [angular中文网](http://www.apjs.net/)
 * [angular英文官网教程](https://angular.io/docs/ts/latest/quickstart.html)
-* [vue官网教程](http://cn.vuejs.org/v2/guide/)
 * [ng2资源汇总](https://github.com/timjacobi/angular2-education)
 
 > 项目脚手架
 
-* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
-* [angular-cli](https://github.com/angular/angular-cli)
-* [vue-cli](https://github.com/vuejs/vue-cli)
+* [ng1项目：generator-gulp-angular](https://github.com/swiip/generator-gulp-angular)
+* [ng2项目：angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
+* [ng2项目：angular-cli](https://github.com/angular/angular-cli)
+* [vue项目：vue-cli](https://github.com/vuejs/vue-cli)
 
 > 工具箱
 
@@ -54,8 +61,6 @@
 > ng2插件
 * [动态解析HTML](https://github.com/laco0416/angular2-component-outlet)
 * [文件上传](https://github.com/valor-software/ng2-file-upload)
-
-
 
 
 
