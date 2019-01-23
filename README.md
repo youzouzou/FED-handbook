@@ -1,6 +1,6 @@
-##前端相关
+## 前端相关
 
-#####总结了一下平时积累的一些亲测可用的资源
+##### 总结了一下平时积累的一些亲测可用的资源
 
 
 
@@ -64,4 +64,6 @@
 
 
 
-> 未完待续......
+> [更多](https://github.com/youzouzou/FED-handbook/issues/1)
+
+* [markdown语法手册](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#index)
