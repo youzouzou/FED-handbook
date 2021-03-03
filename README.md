@@ -58,7 +58,10 @@
 * [动态解析HTML](https://github.com/laco0416/angular2-component-outlet)
 * [文件上传](https://github.com/valor-software/ng2-file-upload)
 
-
+> React学习资源
+* [React官方文档](https://react.docschina.org/docs/getting-started.html)
+* [Redux中文文档](https://www.redux.org.cn/)
+* [Ant Design Mobile of React](https://mobile.ant.design/docs/react/introduce-cn)
 
 > [更多](https://github.com/youzouzou/FED-handbook/issues/1)
 * [前端面试100问](https://github.com/youzouzou/FED-handbook/issues/3)
